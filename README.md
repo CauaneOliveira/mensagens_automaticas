@@ -1,2 +1,2 @@
-# mensagens_automaticas
+# Mensagens Automáticas
 Mensagens automáticas em Python
